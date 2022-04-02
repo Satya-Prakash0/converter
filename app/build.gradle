@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.example.python_java"
+        applicationId "com.aytas.python_java"
 
         python{
             pip{
